@@ -1,0 +1,11 @@
+[project]
+name = "nonebot-plugin-valuecli"
+version = "0.1.0"
+description = "Manager for plugin-EconomyValue"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "nonebot-plugin-alconna>=0.59.1",
+    "nonebot-plugin-value>=0.1.0",
+    "nonebot2>=2.4.2",
+]
